@@ -7,11 +7,11 @@
  */
 var path = require('path');
 //port number
-global.sleekConfig.appPort = 3000;
+global.sleekConfig.appPort = 8080;
 
 global.sleekConfig.appHost = 'localhost';
 
-global.sleekConfig.siteUrl = 'http://localhost:3000';
+global.sleekConfig.siteUrl = 'http://localhost:8080';
 global.sleekConfig.env = 'development';
 
 //global.sleekConfig.configLibs = [];
